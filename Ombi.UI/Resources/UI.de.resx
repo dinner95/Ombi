@@ -139,7 +139,7 @@
     <value>Anmelden</value>
   </data>
   <data name="Javascript_SomethingWentWrong" xml:space="preserve">
-    <value>Irgendetwas ist falsch gelaufen</value>
+    <value>Irgendetwas hat nicht geklappt</value>
   </data>
   <data name="Javascript_Success" xml:space="preserve">
     <value>Erfolg</value>
@@ -412,7 +412,7 @@
     <value>Wir konnten nicht prüfen ob {0} bereits auf {1}ist. Bist du sicher dass alles richtig installiert ist?</value>
   </data>
   <data name="Search_CouchPotatoError" xml:space="preserve">
-    <value>Etwas ging etwas schief beim Hinzufügen des Filmes zu CouchPotato! Bitte überprüfe deine Einstellungen.</value>
+    <value>Etwas ging etwas beim Hinzufügen des Filmes zu CouchPotato schief! Bitte überprüfe deine Einstellungen.</value>
   </data>
   <data name="Search_WeeklyRequestLimitMovie" xml:space="preserve">
     <value>Du hast dein wöchentliches Anfragekontingent für neue Filme erreicht. Bitte kontaktiere den Administrator.</value>
@@ -421,7 +421,7 @@
     <value>ist bereits auf {0}!</value>
   </data>
   <data name="Search_SickrageError" xml:space="preserve">
-    <value>Etwas ging etwas schief beim Hinzufügen des Filmes zu SickRage! Bitte überprüfe deine Einstellungen.</value>
+    <value>Etwas ging etwas beim Hinzufügen des Filmes zu SickRage schief ! Bitte überprüfe deine Einstellungen.</value>
   </data>
   <data name="Search_TvNotSetUp" xml:space="preserve">
     <value>Das Anfragen für Serien ist momentan nicht richtig konfiguriert. Bitte kontaktiere den Administrator.</value>
